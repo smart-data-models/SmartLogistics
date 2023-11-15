@@ -11,6 +11,7 @@ This GitHub repository contains links to the repositories where different groups
 
 ## List of subjects
 
+* [dataModel.ERA](https://github.com/smart-data-models/dataModel.ERA)
 * [dataModel.MarineTransport](https://github.com/smart-data-models/dataModel.MarineTransport)
 ## Support
 If you want to be updated you can subscribe to the mail list (one message a week) in this [link](https://smartdatamodels.org/index.php/subscriptions-page/)
