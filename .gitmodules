@@ -1,3 +1,6 @@
 [submodule "dataModel.MarineTransport"]
 	path = dataModel.MarineTransport
 	url = https://github.com/smart-data-models/dataModel.MarineTransport.git
+[submodule "dataModel.ERA"]
+	path = dataModel.ERA
+	url = https://github.com/smart-data-models/dataModel.ERA.git
